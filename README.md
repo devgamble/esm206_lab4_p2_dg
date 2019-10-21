@@ -1,1 +1,6 @@
-# esm206_lab4_p2_dg
+# This is a ReadMe
+
+### Esm 206 lab 4 part 2
+
+
+
